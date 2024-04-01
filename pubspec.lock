@@ -507,7 +507,7 @@ packages:
   shared_library:
     dependency: "direct main"
     description:
-      path: "../shared_library"
+      path: "packages/flut_shared_library"
       relative: true
     source: path
     version: "0.0.1"
